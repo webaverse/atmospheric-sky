@@ -4,7 +4,7 @@ const {useApp, useFrame, useInternals, useWorld} = metaversefile;
 
 export default () => {
   const app = useApp();
-  // const world = useWorld();
+  const world = useWorld();
   // const worldLights = world.getLights();
   const worldLights = app;
   const {renderer, camera} = useInternals();
