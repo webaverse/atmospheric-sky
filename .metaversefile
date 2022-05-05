@@ -1,3 +1,5 @@
 {
+  "name": "atmospheric-sky",
+  "description": "atmospheric-sky",
   "start_url": "index.js"
 }
